@@ -4,3 +4,10 @@
 
 ## Dataset used
 <a href="https://github.com/Sakshikumari02/Blinkit-sales-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+## KPIs
+- Total Sales
+- Total Orders
+- Average Sales
+- Average Rating
+- Total Items Sold
