@@ -1,2 +1,3 @@
 # Blinkit-sales-analysis-dashboard
-Power BI dashboard project for Blinkit sales data analysis
+##Project objective
+Interactive Power BI dashboard for analyzing Blinkit sales performance, customer ratings, item categories, and outlet insights using Excel data.
