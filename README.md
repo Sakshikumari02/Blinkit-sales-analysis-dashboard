@@ -11,3 +11,5 @@
 - Average Sales
 - Average Rating
 - Total Items Sold
+
+-Dashboard Interaction <a href="https://github.com/Sakshikumari02/Blinkit-sales-analysis-dashboard/blob/main/Blinkit.pbix"> View Dashboard</a>
