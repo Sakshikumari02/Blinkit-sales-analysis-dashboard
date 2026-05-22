@@ -24,3 +24,4 @@
 - Analyzed sales trends and business insights
 
   ## Dashboard
+ dashboard1.png
