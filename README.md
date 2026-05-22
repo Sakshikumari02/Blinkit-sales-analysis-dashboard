@@ -33,3 +33,14 @@
 ![Dashboard 4](dashboard4.png)
 
 ![Dashboard 5](dashboard5.png)
+
+
+## Project Insights
+- Identified top-performing product categories based on sales
+- Analyzed outlet performance across different locations and sizes
+- Observed customer rating trends and average sales patterns
+- Compared sales contribution by item type and outlet type
+- Tracked overall business performance using KPI metrics
+
+## Final Conclusion
+The Blinkit Sales Dashboard provides a clear view of business performance through interactive visualizations and KPIs. It helps in understanding sales trends, customer behavior, and outlet performance, enabling better data-driven business decisions.
