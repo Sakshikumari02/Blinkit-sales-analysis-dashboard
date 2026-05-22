@@ -13,3 +13,14 @@
 - Total Items Sold
 
 -Dashboard Interaction <a href="https://github.com/Sakshikumari02/Blinkit-sales-analysis-dashboard/blob/main/Blinkit.pbix"> View Dashboard</a>
+
+
+## Process
+- Collected Blinkit sales dataset
+- Cleaned and transformed data using Power Query
+- Created KPIs using DAX measures
+- Designed interactive dashboard visuals
+- Added filters, slicers, and navigation buttons
+- Analyzed sales trends and business insights
+
+  ## Dashboard
