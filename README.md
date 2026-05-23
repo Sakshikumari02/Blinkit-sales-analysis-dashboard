@@ -1,9 +1,24 @@
 # Blinkit-sales-analysis-dashboard
  Developed an interactive Power BI dashboard for analyzing Blinkit sales performance, customer ratings, item categories, and outlet insights using Excel data.
 
+ ## Tech Stack
+ - Power BI Desktop - Dashboard creation and visualization
+ - Excel - Data source
+ - Power Query - Data cleaning and transformation
+ - Dax - KPI calculations and measures
+ - Data Modeling - Relationship between tables
 
+## Dataset Source
+- Kaggle
 ## Dataset used
 <a href="https://github.com/Sakshikumari02/Blinkit-sales-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+## Dataset includes
+- Item Type
+- Sales Amount
+- Outlet Type
+- Outlet Size
+- Customer Ratings
+- Outlet Location
 
 ## KPIs
 - Total Sales
@@ -13,7 +28,6 @@
 - Total Items Sold
 
 -Dashboard Interaction <a href="https://github.com/Sakshikumari02/Blinkit-sales-analysis-dashboard/blob/main/Blinkit.pbix"> View Dashboard</a>
-
 
 ## Process
 - Collected Blinkit sales dataset
@@ -33,7 +47,6 @@
 ![Dashboard 4](dashboard4.png)
 
 ![Dashboard 5](dashboard5.png)
-
 
 ## Project Insights
 - Identified top-performing product categories based on sales
